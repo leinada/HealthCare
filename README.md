@@ -11,7 +11,7 @@
 #### Breast Cancer Prediction
 ---------------------------------------------------------------
 - Prediction of benign and malignant breast cancer using data mining techniques. This analysis aims to observe which features are most helpful in predicting malignant or benign breast cancer (data from UCI machine learning repository)
-- Analysis includes
+- Analysis includes (notebook [here](https://github.com/leinada/HealthCare/blob/master/breastCancer/BCD_differentAlgos.ipynb))
   * preprocessing of the data,  training and validation of model using different ML algos such as KNN, Random Forest, SVC, Decision tree, ...
 
 #### Diabetes Prediction
