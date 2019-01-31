@@ -9,4 +9,11 @@
 - Analysis includes
   *preprocessing of the data,  scaling of features and encoding, training and validation of model training using KERAS
 
-  
+#### Diabetes Prediction
+----------------------------------------------------------------
+-Ggoal is to predict the onset of diabetes in Pima Indians within five years using different ML techniques.
+
+- Analysis include
+   *preprocessing, classification report, ROC curve
+   *Logistic regression, XGBoost
+   *Keras (Grid search on batch size, number of epochs, learning rate, dropout rate , diferent kernels, activation functions, number of neurons in each hidden layer)
