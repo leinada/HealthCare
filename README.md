@@ -21,3 +21,10 @@
    * preprocessing, classification report, ROC curve
    * Logistic regression, XGBoost
    * Keras (Grid search on batch size, number of epochs, learning rate, dropout rate , diferent kernels, activation functions, number of neurons in each hidden layer)
+
+#### DNA classification
+----------------------------------------------------------------
+- Analysis of DNA gene sequence. E. coli promoter gene sequences (DNA) with associated imperfect domain theory. Data from UCI repositary
+
+-  Analysis include Note book [here](https://github.com/leinada/HealthCare/blob/master/diabetes_prediction/diabetes.ipynb)
+   * preprocessing, training and validation of model using different ML algos such as KNN, Random Forest, SVC, AdaBoost
