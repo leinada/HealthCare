@@ -23,3 +23,5 @@
 - Analysis of DNA gene sequence. E. coli promoter gene sequences (DNA) with associated imperfect domain theory. Data from UCI repositary
 -  Analysis include (note book [here](https://github.com/leinada/HealthCare/blob/master/DNAclassification/dnaSeqClassification.ipynb))
    * preprocessing, training and validation of model using different ML algos such as KNN, Random Forest, SVC, AdaBoost
+   
+   
