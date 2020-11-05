@@ -1,5 +1,16 @@
 ## Healthcare related projects are  in this directory
 
+### MIMIC EHR data analysis
+--------------------------------------------------------------
+- Predict which patients are at risk for 30-day unplanned readmission with the help of hospital discharge summaries. 
+- Analysis notebook [here](https://nbviewer.jupyter.org/github/leinada/HealthCare/blob/master/readmission/readmission.ipynb)
+- Analysis includes
+  * Data wrangling
+  * Exploratory analysis of the data.
+  * Preprocessing of text data (tokenizer, vectorizer, stop word removal, ...)
+  * Hyper parameter tuning, feature importance extraction
+  * Training and validation of model using different ML algos
+
 ### COVID 19 analysis
 --------------------------------------------------------------
 - Applied time series analysis using fbprophet to predict the death count for the next 30 days 
